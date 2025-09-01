@@ -1,3 +1,16 @@
+# Ryan's First CS193 Homework
+
+## Things I like about CS193
+- Teaches us how to use GitHub
+- We practice using code to make visual changes to a website
+- We learn the importance of version control
+- Probably other things but I've only had one lecture so far 😭
+
+```cpp
+cout << "this is Ryan's code block" << endl;
+cout << "wow it has multiple lines" << endl;
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
